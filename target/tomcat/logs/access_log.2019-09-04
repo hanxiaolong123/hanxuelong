@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:08:58:27 +0800] "GET /list.do HTTP/1.1" 404 991 http-bio-8080-exec-1 74
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:08:58:28 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:08:59:33 +0800] "GET /list.do HTTP/1.1" 404 991 http-bio-8080-exec-1 72
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:09:01:19 +0800] "GET /list.do HTTP/1.1" 200 414 http-bio-8080-exec-1 808
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:09:01:19 +0800] "GET /css/index_work.css HTTP/1.1" 404 987 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:09:01:19 +0800] "GET /js/jquery-1.8.2.min.js HTTP/1.1" 404 995 http-bio-8080-exec-2 4

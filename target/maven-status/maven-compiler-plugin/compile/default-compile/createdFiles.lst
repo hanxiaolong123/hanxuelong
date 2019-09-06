@@ -1,0 +1,4 @@
+com\bw\service\MyService.class
+com\bw\service\MyServicelmpl.class
+com\bw\controller\MyController.class
+com\bw\mapper\MyMapperDao.class
